@@ -6,17 +6,18 @@ A relational database designed and implemented in **Oracle SQL** for a modern ca
 
 ---
 
-##  Table of Contents
+## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Tech Stack](#-tech-stack)
-- [Entity Relationship Diagram](#-entity-relationship-diagram)
-- [Database Design](#-database-design)
-- [Getting Started](#-getting-started)
-- [Business Queries](#-business-queries)
-- [Screenshots](#-screenshots)
-- [Repository Structure](#-repository-structure)
-- [Team](#-team)
+- [Project Overview](#project-overview)
+- [Tech Stack](#tech-stack)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Database Design](#database-design)
+- [Getting Started](#getting-started)
+- [Business Queries](#business-queries)
+- [Screenshots](#screenshots)
+- [Repository Structure](#repository-structure)
+- [Team](#team)
+
 
 ---
 
