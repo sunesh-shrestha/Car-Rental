@@ -186,12 +186,10 @@ Car-Rental/
 
 ---
 
-##  Future Improvements
+##  Contact
 
-- Add a `PAYMENTS` table to fully cover payment processing
-- Add stored procedures / triggers (e.g., auto-update `total_rentals` and `lifetime_spending` after a completed rental)
-- Add views for common reports
-- Add role-based access (agent, manager, customer) for data security
+**Sunesh Shrestha** - [GitHub Profile](https://github.com/sunesh-shrestha)  
+**E-mail** - [suneshshrestha308@gmail.com](mailto:suneshshrestha308@gmail.com)
 
 ---
 
