@@ -8,7 +8,7 @@ A relational database designed and implemented in **Oracle SQL** for a modern ca
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)
+- [Project Overview](#-Project-Overview)
 - [Tech Stack](#-tech-stack)
 - [Entity Relationship Diagram](#-entity-relationship-diagram)
 - [Database Design](#-database-design)
